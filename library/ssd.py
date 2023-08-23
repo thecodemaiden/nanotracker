@@ -1,6 +1,6 @@
 ###########################################################################
 # Computer vision - Embedded person tracking demo software by HyperbeeAI. #
-# Copyrights © 2023 Hyperbee.AI Inc. All rights reserved. main@shallow.ai #
+# Copyrights © 2023 Hyperbee.AI Inc. All rights reserved. hello@hyperbee.ai #
 ###########################################################################
 import torch, torchvision, time, random
 import numpy as np

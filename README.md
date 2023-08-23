@@ -1,6 +1,6 @@
 # Experiments on person tracking with quantized networks by HyperbeeAI
 
-Copyrights © 2023 Hyperbee.AI Inc. All rights reserved. main@shallow.ai
+Copyrights © 2023 Hyperbee.AI Inc. All rights reserved. hello@hyperbee.ai
 
 This repository contains our experiments for quantized neural networks for the person tracking task, evaluated over the WIDER pedestrian surveillance dataset.
 
